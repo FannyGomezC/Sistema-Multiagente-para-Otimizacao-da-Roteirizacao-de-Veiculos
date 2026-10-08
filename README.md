@@ -231,7 +231,9 @@ As explicações detalhadas da arquitetura, dos agentes, da execução, dos expe
 
 Durante o desenvolvimento deste projeto, foram utilizadas ferramentas de Inteligência Artificial Generativa (Gemini, ChatGPT e Codex) como apoio à programação, análise da arquitetura, revisão de código, identificação de problemas e avaliação de alternativas técnicas.
 
-A concepção inicial do sistema, a análise crítica das sugestões, as decisões de desenvolvimento e a validação dos resultados foram conduzidas pela autora, que permanece responsável pelo conteúdo e pelas conclusões do trabalho.
+A concepção inicial do sistema, a análise crítica das sugestões, as decisões de desenvolvimento e a validação dos resultados foram conduzidas pela autora, que também teve papel ativo na identificação de oportunidades de melhoria e na proposição de novas abordagens para superar limitações, explorar alternativas de otimização e impulsionar a evolução do sistema.
+
+A autora permanece responsável pelo conteúdo e pelas conclusões do trabalho.
 
 A declaração completa sobre a utilização dessas ferramentas está disponível no início do notebook.
 
