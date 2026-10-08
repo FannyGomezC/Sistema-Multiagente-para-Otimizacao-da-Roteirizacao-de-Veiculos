@@ -1,5 +1,7 @@
 # Sistema-Multiagente-para-Otimizacao-da-Roteirizacao-de-Veiculos
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FannyGomezC/Sistema-Multiagente-para-Otimizacao-da-Roteirizacao-de-Veiculos/blob/main/Sistema_Multiagente_Otimiza%C3%A7%C3%A3o.ipynb)
+
 Este projeto apresenta um sistema  que recebe um problema de otimização de roteirização de veículos orientado a entregas e busca encontrar o melhor plano de viagens possível, considerando os objetivos e as restrições definidos pelo usuário. 
 
 Após encontrar uma solução, o sistema verifica sua viabilidade operacional, busca oportunidades de melhoria e avalia sua qualidade matemática por meio de um processo de certificação baseado na relação entre a melhor solução encontrada e um limite matemático calculado.
